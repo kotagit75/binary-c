@@ -4,3 +4,5 @@ sample/**/*.d
 sample/**/*.o
 tmp/
 s/
+eval/
+struct/
