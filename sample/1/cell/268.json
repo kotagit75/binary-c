@@ -1,0 +1,17 @@
+{
+     "lifespan": 130,
+     "remaining_life": 130,
+     "fitness": 17,
+     "protein": [
+          [
+               [
+                    "0x75"
+               ]
+          ]
+     ],
+     "DNA": [
+          {
+               "comp": 0
+          }
+     ]
+}

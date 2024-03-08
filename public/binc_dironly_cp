@@ -1,0 +1,2 @@
+DIR_NAME=`echo "$1" | sed -e 's/.*\/\([^\/]*\)$/\1/'`
+rsync -avz --include "*/" --exclude "*" $1 b ; mv b/$DIR_NAME $2 ; rm -r b

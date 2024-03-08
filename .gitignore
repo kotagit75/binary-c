@@ -1,0 +1,6 @@
+src/**/*.d
+src/**/*.o
+sample/**/*.d
+sample/**/*.o
+tmp/
+s/
