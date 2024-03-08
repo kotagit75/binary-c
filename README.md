@@ -13,10 +13,10 @@
 2. 環境変数の設定
 * .bash_profileに
 ```
-export BINC="(パス)/binc-elf/"
+export BINC="(パス)/binary-c/"
 PATH=$PATH:$BINC./public
 ```
-を追加。（これは、binc-elfのパスを環境変数にし、そのpublicディレクトリにパスを通している）
+を追加。（これは、binary-cのパスを環境変数にし、そのpublicディレクトリにパスを通している）
 
 # システム要件
 * 環境:Linux
